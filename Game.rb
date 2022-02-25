@@ -16,7 +16,8 @@ class Game
     puts "This is a game to change your age"
     puts "You just need to answer correct to decrease your age"
     puts "But if you answer incorrectly we increase your age"
-
+    puts ""
+    puts ""
     guessing_game
   end
 
